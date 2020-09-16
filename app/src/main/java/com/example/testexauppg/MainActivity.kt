@@ -41,7 +41,7 @@ class MainActivity : AppCompatActivity() {
         }
     }
     fun secondQuestion(){
-    //hej
+
 
     }
 
